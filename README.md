@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Batata1506
+- 👋 Hi, I’m @Batata1506 (Taha)
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning programming
 - 📫 How to reach me tahalsalihi@gmail.com
