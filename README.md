@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Batata1506 (Taha)
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning programming
-- 📫 How to reach me tahalsalihi@gmail.com
+- 🌱 I’m currently an Electronic and Computer Engineer at the University of limerick
+- 💼 Intern at Thales group Nederlands 
+- 📫 How to reach me info@taha-al-salihi.engineer 
 
 <!---
 Batata1506/Batata1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
