@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Batata1506 (Taha)
-- 🌱 I’m currently an Electronic and Computer Engineer at the University of limerick
+- 🌱 I’m currently an Electronic and Computer Engineering student at the University of limerick
 - 💼 Intern at Thales group Nederlands 
 - 📫 How to reach me info@taha-al-salihi.engineer 
 
